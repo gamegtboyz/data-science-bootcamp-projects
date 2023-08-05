@@ -9,6 +9,7 @@ Repository to support DS bootcamp projects portfolio
 ###### heading 6, longer the pound, smaller the heading
 
 - use dash to define the bullet
+
 ===============================
 
 ## What did we learn for the entire course
